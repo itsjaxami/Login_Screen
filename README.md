@@ -1,2 +1,2 @@
 # Login_Screen
-Practice making a "functional" login screen with html &amp; css.
+Practice making a "functional" login screen with html and css.
